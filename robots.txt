@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hozri.github.io/yjt/sitemap.yjt.gz
